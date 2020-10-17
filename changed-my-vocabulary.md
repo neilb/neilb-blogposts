@@ -45,3 +45,28 @@ but I never felt stressed, as those three bases were covered.
 At other places, I can trace my negative feelings to one or more of PAM
 not being satisfied.
 
+## The Golden Path
+
+It seems silly I admit,
+but in [God Emperor of Dune](https://en.wikipedia.org/wiki/God_Emperor_of_Dune),
+Frank Herbert pushed a concept I'll call adversarial evolution.
+Without going into too much depth,
+the book is about a character who becomes a tyrant,
+with the sole purpose of training humanity out of societal habits that over emphasize safety and stability.
+
+I don't see a "**Golden Path**" that would fix our many woes,
+but many times I have considered problems that might be deserve such a method.
+
+A stupid example would be passwords:
+humans are bad at coming up with random strings of data
+and they are worse at remembering them.
+One solution to this problem would be forced evolution,
+such that we all eventually have this capability.
+We should just use access delegation to reduce how many passwords people have to remember though.
+
+Another example is how people react to news these days:
+opinions are galvanized before reading the first paragraph.
+Our biases are being exploited and a (fictional) solution would be a Golden Path style intervention.
+
+I don't actually believe a sweeping, general Golden Path would be the best way to resolve some of these issues,
+but I do think it's an interesting thought experiment.
