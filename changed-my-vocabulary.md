@@ -1,4 +1,4 @@
-# Books that changed my vocabulary
+# Books that changed our vocabulary
 
 I've read quite a few non-fiction books over the years
 that I thought were good,
@@ -15,7 +15,7 @@ I wondered if others have this experience too.
 So I'm going to write up one example of my own,
 and then ask some friends to chip in theirs.
 
-## Purpose, Autonomy, and Mastery
+## Purpose, Autonomy, and Mastery (Neil)
 
 In the book [Drive](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us),
 Daniel Pink says that people need three things to maintain motivation,
@@ -45,7 +45,7 @@ but I never felt stressed, as those three bases were covered.
 At other places, I can trace my negative feelings to one or more of PAM
 not being satisfied.
 
-## The Golden Path
+## The Golden Path (Frew)
 
 It seems silly I admit,
 but in [God Emperor of Dune](https://en.wikipedia.org/wiki/God_Emperor_of_Dune),
@@ -68,10 +68,55 @@ Another example is how people react to news these days:
 opinions are galvanized before reading the first paragraph.
 Our biases are being exploited and a (fictional) solution would be a Golden Path style intervention.
 
-I don't actually believe a sweeping, general Golden Path would be the best way to resolve some of these issues,
+I don't actually believe a sweeping,
+general Golden Path would be the best way to resolve some of these issues,
 but I do think it's an interesting thought experiment.
 
-## Dimensions, Experts, and Unreliable Data
+## Signing Up (Neil)
+
+[The Soul of New Machine](https://en.wikipedia.org/wiki/The_Soul_of_a_New_Machine)
+by [Tracy Kidder](https://en.wikipedia.org/wiki/Tracy_Kidder)
+is a non-fiction book from 1981 that follows a team at Data General
+that were designing a computer to challenge the VAX.
+It was the first non-fiction tech book I read where I recognised something of how I felt about working with computers.
+I re-read it every 5 or 10 years.
+
+One repeating theme is the notion of people **_signing up_**.
+The team needed various people to _take ownership_ of parts of the design,
+building prototypes, writing a simulator, etc.
+They knew this would be a hard long grind,
+and couldn't have people just working their hours.
+They couldn't have people going off and working in isolation either,
+as the design evolved over time.
+The project lead couldn't just assign tasks to people,
+he needed _them_ to sign up.
+
+As a manager, when you assign tasks you want people to take ownership of them:
+make sure they understand what's required, by when, and who the stakeholders are.
+Keep those stakeholders informed to an appropriate level of detail,
+and track things in the project that might mean their requirements may change.
+
+It's easy for this to be interpreted as "will work crazy hours to make sure it's delivered on time",
+but while sometimes that's what's required,
+in general that's what I mean.
+I want someone who'll come to me and say "turns out this thing is bigger than we thought,
+for X reason", and brings some ideas for how we deal with that.
+As we approach a deadline, I don't want to start feeling worried about someone
+because all they've said is "fine", and then hit the deadline to discover that
+they've been stuck, or blocked, and struggling on their own.
+
+If you want someone to sign up,
+you should make sure there's a _purpose_ they believe in,
+that they're going to have some _autonomy_,
+and that there's a chance for them to develop or demonstrate _mastery_.
+
+Aside: 15 years after the book came out, the place where I was working
+was given a Data General workstation, to ensure that our software supported
+their machines and [DG/UX](https://en.wikipedia.org/wiki/DG/UX).
+I leapt at the chance to have it on my desk,
+but was deeply disappointed when it turned out to be a complete nail.
+
+## Dimensions, Experts, and Unreliable Data (Frew)
 
 [The Art of Doing Science and Engineering](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering),
 by Richard W. Hamming,
